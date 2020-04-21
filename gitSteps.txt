@@ -1,0 +1,10 @@
+Made folder < C:\Repos >
+In VSCode pressed Cntrl-Shift-P to get command and entered Git:Clone.
+It let me enter URL:
+  https://github.com/Tabrel-LI/TensorFlow.git
+That opened windows to browse to < C:\Repos >.
+
+PS C:\Repos\TensorFlow> git config --global user.name "********"
+PS C:\Repos\TensorFlow> git config --get-all user.name
+********
+PS C:\Repos\TensorFlow> git config --global user.email "*********"
