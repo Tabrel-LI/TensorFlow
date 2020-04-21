@@ -8,3 +8,5 @@ PS C:\Repos\TensorFlow> git config --global user.name "********"
 PS C:\Repos\TensorFlow> git config --get-all user.name
 ********
 PS C:\Repos\TensorFlow> git config --global user.email "*********"
+
+It did not update GitHub.
